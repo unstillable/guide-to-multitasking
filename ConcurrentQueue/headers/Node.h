@@ -2,12 +2,6 @@
 #define NODE_H
 #include "Pointer.h"
 
-//-------------------------------------------------------------
-// Node struct
-//	Based off of the Micheal and Scott Lock-free queue
-//      
-//-------------------------------------------------------------
-
 template<class T>
 struct Node
 {
